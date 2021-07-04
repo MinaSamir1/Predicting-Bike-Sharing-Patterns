@@ -3,7 +3,6 @@ This Project is the first Project in Udacity Deep Learning Engineer Nanodegree.
 
 ==========================================
 Bike Sharing Dataset
-==========================================
 
 Hadi Fanaee-T
 
